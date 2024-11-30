@@ -1,5 +1,7 @@
 # Qiskit Community Tutorials
 
+this repository if from https://github.com/qiskit-community/qiskit-community-tutorials.git
+
 [![License](https://img.shields.io/github/license/Qiskit/qiskit-tutorials.svg?style=popout-square)](https://opensource.org/licenses/Apache-2.0)
 
 Welcome to the [Qiskit](https://www.qiskit.org/) community tutorials!
